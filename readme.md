@@ -6,7 +6,7 @@ Facts
 -----
 - version: 1.0.0
 - extension key: BitUndPixel_ReadOnlyVat
-- [extension on GitHub](https://github.com/bitundpixel/ReadOnlyVat)
+- [extension on GitHub](https://github.com/bitundpixel/magento-read-only-vat)
 
 Description
 -----------
@@ -33,7 +33,7 @@ Uninstallation
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/bitundpixel/ReadOnlyVat/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/bitundpixel/magento-read-only-vat/issues).
 
 Contribution
 ------------
@@ -41,13 +41,11 @@ Any contribution is highly appreciated. The best way to contribute code is to op
 
 Developer
 ---------
-
-[http://www.firstname-lastname.com](http://www.firstname-lastname.com)
 [@bitundpixel](https://twitter.com/bitundpixel)
 
 Licence
 -------
-[MIT https://github.com/bitundpixel/ReadOnlyVat/blob/master/LICENSE)
+[MIT https://github.com/bitundpixel/magento-read-only-vat/blob/master/LICENSE)
 
 Copyright
 ---------
