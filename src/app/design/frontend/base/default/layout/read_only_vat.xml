@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<layout version="0.1.0">
+    <customer_address_form>
+        <reference name="content">
+            <block type="bitundpixel_readonlyvat/readonlyvat" name="readonlyvat" template="bitundpixel/readonlyvat/js.phtml"></block>
+        </reference>
+    </customer_address_form>
+</layout>

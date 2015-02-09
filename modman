@@ -1,0 +1,4 @@
+src/app/code/community/BitUndPixel/ReadOnlyVat     app/code/community/BitUndPixel/ReadOnlyVat
+src/app/design/frontend/base/default/layout/*      app/design/frontend/base/default/layout/
+src/app/design/frontend/base/default/template/bitundpixel/readonlyvat      app/design/frontend/base/default/template/bitundpixel/readonlyvat
+src/app/etc/modules/*    app/etc/modules/
