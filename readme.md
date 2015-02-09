@@ -1,16 +1,16 @@
 BitUndPixel ReadOnlyVat Extension
 =====================
-Allow the customer to edit his vat only once
+Allow the customer to edit his VAT id only once
 
 Facts
 -----
 - version: 1.0.0
 - extension key: BitUndPixel_ReadOnlyVat
-- [extension on GitHub](https://github.com/bitundpixel/BitUndPixel_ReadOnlyVat)
+- [extension on GitHub](https://github.com/bitundpixel/ReadOnlyVat)
 
 Description
 -----------
-
+Add modifications to the Magento Frontend that allows the customer to edit his VAT id only once
 
 Requirements
 ------------
@@ -33,7 +33,7 @@ Uninstallation
 
 Support
 -------
-If you have any issues with this extension, open an issue on [GitHub](https://github.com/bitundpixel/BitUndPixel_ReadOnlyVat/issues).
+If you have any issues with this extension, open an issue on [GitHub](https://github.com/bitundpixel/ReadOnlyVat/issues).
 
 Contribution
 ------------
@@ -43,11 +43,11 @@ Developer
 ---------
 
 [http://www.firstname-lastname.com](http://www.firstname-lastname.com)
-[@FirstNameLastName](https://twitter.com/FirstNameLastName)
+[@bitundpixel](https://twitter.com/bitundpixel)
 
 Licence
 -------
-[MIT )
+[MIT https://github.com/bitundpixel/ReadOnlyVat/blob/master/LICENSE)
 
 Copyright
 ---------

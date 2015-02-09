@@ -9,6 +9,7 @@ class BitUndPixel_ReadOnlyVat_Block_ReadOnlyVat extends Mage_Core_Block_Template
         $customer = Mage::helper('customer')->getCustomer();
         $address = $customer->getAddressById($addressId);
 
+        // only add HTML this customer address has already a VAT Id
         if ($address->hasVatId()) {
             return parent::_toHtml();
         }
