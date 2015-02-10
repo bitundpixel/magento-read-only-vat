@@ -45,7 +45,7 @@ Developer
 
 Licence
 -------
-[MIT https://github.com/bitundpixel/magento-read-only-vat/blob/master/LICENSE)
+[MIT](https://github.com/bitundpixel/magento-read-only-vat/blob/master/LICENSE)
 
 Copyright
 ---------
